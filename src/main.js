@@ -1,8 +1,13 @@
 import Vue from 'vue'
 import App from './App.vue'
+import router from './router'
+import '@/assets/styles/index.css'
+import JwPagination from 'jw-vue-pagination';
 
 Vue.config.productionTip = false
+Vue.component('jw-pagination', JwPagination);
 
 new Vue({
-  render: h => h(App),
+  router,
+  render: h => h(App)
 }).$mount('#app')
