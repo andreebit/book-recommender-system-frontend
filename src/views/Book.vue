@@ -7,6 +7,9 @@
                 <hr class="my-5">                
                 <strong>Genre:</strong> {{ book.genre }} <br>
                 <strong>Author:</strong> {{ book.author }} <br>
+                <a class="inline-flex items-center h-10 px-6 m-5 text-sm text-white transition-colors duration-150 bg-green-500 rounded-lg focus:shadow-outline hover:bg-green-700" target="_blank" :href="'https://www.amazon.com/s?k=' + book.title">
+                    Buy Now
+                </a>
             </div>
             <div>
                 {{ book.description }}
