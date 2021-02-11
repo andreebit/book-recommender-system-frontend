@@ -1,24 +1,22 @@
-# ia-frontend
-
-## Project setup
+# Instrucciones #
+## Clonar el repositorio ##
+Ejecutar el comando:  
+```
+git clone https://github.com/andreebit/book-recommender-system-frontend.git
+```
+___
+## Descargar las dependecias ##
+En la raiz del proyecto, ejecutar el comando:  
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### Iniciar el servidor
+En la raiz del proyecto, ejecutar el comando:  
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+## Probar el sistema ##
+Acceder a la url:
 ```
-npm run build
+http://localhost:8080
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
