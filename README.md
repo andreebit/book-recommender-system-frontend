@@ -10,11 +10,13 @@ En la raiz del proyecto, ejecutar el comando:
 ```
 npm install
 ```
+___
 ### Iniciar el servidor
 En la raiz del proyecto, ejecutar el comando:  
 ```
 npm run serve
 ```
+___
 ## Probar el sistema ##
 Acceder a la url:
 ```
