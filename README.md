@@ -24,3 +24,5 @@ Acceder a la url:
 ```
 http://localhost:8080
 ```
+
+> __¡Importante!__: El puerto utilizado (8080) puede ser diferente si dicho puerto está siendo utilizado por otro servicio.
