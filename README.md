@@ -1,4 +1,6 @@
 # Instrucciones #
+> __¡Importante!__: Antes de continuar con la instalación, es necesario tener [node](https://nodejs.org/es/) instalado.
+___
 ## Clonar el repositorio ##
 Ejecutar el comando:  
 ```
