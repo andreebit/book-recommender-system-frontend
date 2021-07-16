@@ -2,7 +2,7 @@
   <div id="app"> 
     <nav>
       <router-link :to="`/`">
-        <img class="inline-block" src="@/assets/images/upc.png" alt="UPC">  Inteligencia Artificial
+        <img class="inline-block" src="@/assets/images/upc.png" alt="UPC">  BIBLIA
       </router-link>
     </nav>
     <div class="container mx-auto mt-10 px-5 pb-10">

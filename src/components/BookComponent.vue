@@ -4,8 +4,8 @@
             <img class="mx-auto object-cover" :src="book.image_link" :alt="book.title">
         </router-link>
         <hr class="my-5">
-        <span><strong>Genre:</strong> {{ book.genre }}</span>
-        <span><strong>Author:</strong> {{ book.author }}</span>
+        <span><strong>Género:</strong> {{ book.genre }}</span>
+        <span><strong>Autor:</strong> {{ book.author }}</span>
     </div>
 </template>
 
